@@ -14,5 +14,5 @@ In order to run this scripts, you will need the following libraries
 # How you can train your own
 Download and unzip [this entire repository from GitHub,](https://github.com/aloko001/llcolorizers.git) either interactively, or by entering the following in your Terminal.
 
-`git clone https://github.com/aloko001/llcolorizers.git
+`git clone https://github.com/jerryduncan/llcolorizers.git
 `
